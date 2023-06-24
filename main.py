@@ -7,6 +7,7 @@ def main():
     
     print("Male Percentage - " + str(m_perc) + "%")
     print("Female Percentage - " + str(f_perc) + "%")
+    print(total)
     return m_perc, f_perc
 
 
